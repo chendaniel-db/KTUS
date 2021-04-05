@@ -1,0 +1,19 @@
+.fonta
+	{
+		font-size:22px;
+		font-family: '微軟正黑體';
+		color: #FFFFFF;
+	}
+	
+.fontb
+	{
+		font-size:18px;
+		font-family: '微軟正黑體';
+		color: #FFFFFF;
+	}
+
+h1,h2
+	{
+		font-family: '微軟正黑體';
+		color: #FFFFFF;
+	}

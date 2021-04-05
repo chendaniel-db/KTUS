@@ -1,0 +1,18 @@
+/* 電腦專用 背景設計 */
+body
+	{
+		background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: cover;
+	}
+
+/* 行動裝置 背景設計 */
+@media screen and (max-width: 768px){
+body
+	{
+		background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: cover;
+	}
